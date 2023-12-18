@@ -5635,7 +5635,7 @@
     </message>
     <message>
       <source>our terms and to the Law</source>
-      <translation>termeniilor noștri și a legii</translation>
+      <translation>termenilor noștri și a legii</translation>
     </message>
     <message>
       <source>Please choose</source>
